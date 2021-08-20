@@ -35,6 +35,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         lblNome.setText("Nome:");
 
+        button1.setBackground(new java.awt.Color(204, 0, 51));
         button1.setLabel("Cadastrar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
